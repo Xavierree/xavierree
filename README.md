@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/compute.gif" alt="Eidel Halo" width="400"/>
+  <img src="asset/compute.gif" alt="Eidel Halo" width="100%"/>
 </p>
 
 <h2 align="center">
