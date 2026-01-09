@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=120&section=header&text=Eidel%20Halo&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="asset/compute.gif" alt="Eidel Halo" width="400"/>
 </p>
 
 <h2 align="center">
@@ -11,9 +11,9 @@ Computer Science student based in Indonesia 🇮🇩 <br/>
 Focused on AI, GPU computing, and modern web technologies.
 </p>
 
----
+<hr/>
 
-### 🛠️ Specialties
+<h3 align="center">🛠️ Specialties</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,nextjs" />
@@ -26,9 +26,9 @@ Focused on AI, GPU computing, and modern web technologies.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 </p>
 
----
+<hr/>
 
-### 📫 Contact
+<h3 align="center">📫 Contact</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Eideltha">
