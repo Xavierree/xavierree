@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-Hello 👋 | Hola | Bonjour | Konnichiwa | Nǐ hǎo | Annyeonghaseyo
+Hello 👋 | Hola 🇪🇸 | Bonjour 🇫🇷 | Konnichiwa 🇯🇵 | Nǐ hǎo 🇨🇳 | Annyeonghaseyo 🇰🇷
 </h2>
 
 <p align="center">
